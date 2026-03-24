@@ -1,128 +1,105 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Mohamed%20Ahmed%20Abdelsatter&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=Mohamed%20Ahmed%20Abdelsatter&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer&descAlignY=60&descSize=20&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed Abdelsatter</h1>
-<h3 align="center">Backend .NET Developer | CS Student @ Ain Shams University</h3>
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Backend+.NET+Developer;Problem+Solver;Data+Engineering+Enthusiast;Building+Scalable+Systems" />
+</p>
 
 ---
 
-<!-- SOCIAL BADGES -->
+### 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-abd-el-satter-b3bba3350">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mohamedaladawy159753@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Abdelsatter">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-2C5364?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/Abdelsatter">
-    <img src="https://img.shields.io/badge/Codeforces-%231f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-2C5364?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/mohamed.abd.el.satter.518391">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-2C5364?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📄 My CV
+<p align="center">
+  <a href="https://drive.google.com/file/d/1appV4ty5IJjhsT_09u5Xc_qXoiEegC1L/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20My%20CV-00C853?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Senior @ Faculty of Computer & Information Science – Ain Shams University  
-- 💻 Backend Developer specializing in **.NET**  
-- 🧠 Strong in **Data Structures & Algorithms**  
-- 📊 Interested in **Data Engineering & Machine Learning**  
-- 🚀 Always building and learning new tech  
-
----
-
-### 📄 Check My CV
 <p align="center">
-  <a href="https://drive.google.com/file/d/1appV4ty5IJjhsT_09u5Xc_qXoiEegC1L/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-%2300C853?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
+🎓 CS Student @ Ain Shams University <br>
+💻 Backend Developer (.NET) <br>
+📊 Interested in Data Engineering & Machine Learning <br>
+🚀 Passionate about building scalable systems
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🏗️ Backend & Data Engineering
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,mysql,mongodb,linux,git&perline=8" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL_Server-2C5364?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-2C5364?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Engineering-2C5364?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-2C5364?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img src="https://skillicons.dev/icons?i=cs" />
-</a>
+---
 
-<a href="https://dotnet.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=dotnet" />
-</a>
-
-<a href="https://www.w3schools.com/cpp/">
-<img src="https://skillicons.dev/icons?i=cpp" />
-</a>
-
-<a href="https://www.java.com">
-<img src="https://skillicons.dev/icons?i=java" />
-</a>
-
-<a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" />
-</a>
-
-<a href="https://www.w3.org/html/">
-<img src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://skillicons.dev/icons?i=css" />
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" />
-</a>
-
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css&perline=6" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelsatter&show_icons=true&theme=tokyonight&border_radius=10"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdelsatter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelsatter&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelsatter&theme=tokyonight&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelsatter&layout=compact&theme=tokyonight&border_radius=10"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelsatter&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I enjoy turning complex problems into simple, scalable solutions 🚀
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Abdelsatter/Abdelsatter/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdelsatter&label=Profile%20Views&color=2C5364&style=flat-square" />
+</p>
 
 ---
 
