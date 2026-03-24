@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Mohamed%20Ahmed%20Abdelsatter&fontSize=35&fontColor=ffffff" />
 </p>
 
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed Abdelsatter</h1>
 <h3 align="center">Computer Science Student @ Ain Shams University | Backend .NET Developer</h3>
 
